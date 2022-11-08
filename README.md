@@ -1,2 +1,2 @@
 # grip-tsf-task1
-Unsupervised ML
+Supervised ML
